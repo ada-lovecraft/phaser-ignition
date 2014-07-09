@@ -1,0 +1,17 @@
+{
+  "name": "phaser-ignition",
+  "version": "2.0.5",
+  "authors": [
+    "jdowell <jeremy@codevinsky.com>"
+  ],
+  "description": "custom phaser build for ignition creative",
+  "main": "phaser.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
